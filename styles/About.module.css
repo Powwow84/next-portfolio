@@ -1,0 +1,6 @@
+/* here in a css module, you cannot put element selectors. i.e body, p, etc */
+/* what we can use a class specific selectors ie .class p */
+
+.greenText {
+    color: chartreuse;
+}
